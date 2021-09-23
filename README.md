@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi, I am Cyrus Yip.
+
+你好哇，我是叶寻。
+
 ![CyrusYip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusYip&hide=stars)
