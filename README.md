@@ -1,3 +1,17 @@
+![CyrusYip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusYip&hide=stars)
+
+Hi, I am Cyrus Yip. 你好哇，我是叶寻。
+
+You can find me on:
+
+- [Disqus](https://disqus.com/by/cyrusyip/)
+- [GitHub](https://github.com/CyrusYip)
+- [Stack Overflow](https://stackoverflow.com/users/14399237/cyrus-yip)
+- [Twitter](https://twitter.com/CyrusYip10)
+- [豆瓣](https://www.douban.com/people/92568183/)
+- [统计之都](https://d.cosx.org/u/CyrusYip)
+- [知乎](https://www.zhihu.com/people/xie-xun-65-80)
+
 <!--### Hi there 👋-->
 
 <!--
@@ -15,8 +29,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Cyrus Yip.
-
-你好哇，我是叶寻。
-
-![CyrusYip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusYip&hide=stars)
