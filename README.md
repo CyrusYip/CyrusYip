@@ -2,8 +2,9 @@
 
 Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 
-You can find me on my [blog](https://cyrusyip.org) and:
+# Where to find me
 
+- [My Blog](https://cyrusyip.org)
 - [Arch Linux Forum](https://bbs.archlinux.org/profile.php?id=138854)
 - [Disqus](https://disqus.com/by/cyrusyip/)
 - [GitHub](https://github.com/CyrusYip)
@@ -14,6 +15,11 @@ You can find me on my [blog](https://cyrusyip.org) and:
 - [统计之都](https://d.cosx.org/u/CyrusYip)
 - [知乎](https://www.zhihu.com/people/xie-xun-65-80)
 - [Arch Linux 中文社区](https://bbs.archlinuxcn.org/profile.php?id=163433)
+# Donation
+
+- [Ko-fi](https://ko-fi.com/cyrusyip)
+- [Patreon](https://www.patreon.com/cyrusyip)
+- [爱发电](http://afdian.net/@cyrusyip)
 
 <!--### Hi there 👋-->
 
