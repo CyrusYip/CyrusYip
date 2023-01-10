@@ -1,4 +1,6 @@
+<!--
 ![CyrusYip's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusYip&hide=stars)
+-->
 
 Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 
