@@ -12,6 +12,7 @@ Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 - [Disqus](https://disqus.com/by/cyrusyip/)
 - [GitHub](https://github.com/CyrusYip)
 - [My Blog](https://cyrusyip.org)
+- [Proxmox Support Forum](https://forum.proxmox.com/members/cyrus.172060/)
 - [Reddit](https://www.reddit.com/user/CyrusYip)
 - [Stack Overflow](https://stackoverflow.com/users/14399237/cyrus-yip)
 - [Twitter](https://twitter.com/CyrusYip10)
