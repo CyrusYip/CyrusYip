@@ -5,13 +5,14 @@
 Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 
 <details>
-<summary><h2>Where to find me</h2></summary>
+<summary><h2>Where I am</h2></summary>
 
 - [My Blog](https://cyrusyip.org)
 - [Arch Linux Forum](https://bbs.archlinux.org/profile.php?id=138854)
 - [ArchWiki](https://wiki.archlinux.org/title/Special:Contributions/Cyrus_Yip)
 - [Disqus](https://disqus.com/by/cyrusyip/)
 - [GitHub](https://github.com/CyrusYip)
+- [Matrix](https://matrix.to/#/@cyrusyip:matrix.org) (no private chat)
 - [NixOS Discourse](https://discourse.nixos.org/u/cyrusyip/)
 - [Proxmox Support Forum](https://forum.proxmox.com/members/cyrus.172060/)
 - [Reddit](https://www.reddit.com/user/CyrusYip)
@@ -21,6 +22,7 @@ Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 - [知乎](https://www.zhihu.com/people/xie-xun-65-80)
 - [统计之都](https://d.cosx.org/u/CyrusYip)
 - [豆瓣](https://www.douban.com/people/92568183/)
+
 
 </details>
 
