@@ -29,7 +29,7 @@ Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 ## Donation
 
 - [Patreon](https://www.patreon.com/cyrusyip)
-- [爱发电](http://afdian.net/@cyrusyip)
+- [爱发电](https://afdian.net/a/cyrusyip)
 
 <!--### Hi there 👋-->
 
