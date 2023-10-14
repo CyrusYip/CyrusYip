@@ -21,8 +21,6 @@ Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 - [Arch Linux 中文社区](https://bbs.archlinuxcn.org/profile.php?id=163433)
 - [知乎](https://www.zhihu.com/people/xie-xun-65-80)
 - [统计之都](https://d.cosx.org/u/CyrusYip)
-- [豆瓣](https://www.douban.com/people/92568183/)
-
 
 </details>
 
