@@ -20,7 +20,6 @@ Hi, I am Cyrus Yip. 你好哇，我是叶寻。
 - [Twitter](https://twitter.com/CyrusYip10)
 - [Arch Linux 中文社区](https://bbs.archlinuxcn.org/profile.php?id=163433)
 - [小众软件官方论坛](https://meta.appinn.net/u/CyrusYip/)
-- [知乎](https://www.zhihu.com/people/xie-xun-65-80)
 - [统计之都](https://d.cosx.org/u/CyrusYip)
 
 </details>
